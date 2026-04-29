@@ -1,0 +1,7 @@
+name = "notesug-seo-worker"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+API_BASE = "https://eduportal-uganda.kawalyaumar500.workers.dev"
+SITE_URL = "https://notesug.com"
