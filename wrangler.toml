@@ -1,4 +1,4 @@
-name = "notesug-seo-worker"
+name = "notesug-oute"
 main = "worker.js"
 compatibility_date = "2024-01-01"
 
